@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T08:36:28.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="9aSH39Cvw2cifR8BVeiE" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T12:57:38.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="3ax5BhcC--YjZcJJnbHP" version="15.9.4" type="github">
   <diagram id="qhJl3kteqLD2XYBJskIr" name="Page-1">
     <mxGraphModel dx="780" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z9EWzRWeJU4jNlitn-m5-1" value="发送线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z9EWzRWeJU4jNlitn-m5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="200" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9EWzRWeJU4jNlitn-m5-1" value="发送线程&lt;br&gt;Sender 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9EWzRWeJU4jNlitn-m5-2" value="发送线程&lt;br&gt;Sender 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9EWzRWeJU4jNlitn-m5-7" value="发送消息" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=none;arrowWidth=0.4111114501953125;arrowSize=0.23333304268973215;" vertex="1" parent="1">
+          <mxGeometry x="300" y="245" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9EWzRWeJU4jNlitn-m5-10" value="接收线程&lt;br&gt;Receiver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
