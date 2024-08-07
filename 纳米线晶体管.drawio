@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-07T02:37:48.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="YcpMbUwk6UlARniAPnsj" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-07T02:45:48.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="bV3ZcnNPe9VHRmvp32Ev" version="24.0.7" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1740" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="1" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-1" value="在时间`t`时对潜在配置文件`U_(&quot;old &quot;)(x,y,z,t)`的初始猜测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=STSongti-SC-Regular;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="310" height="60" as="geometry" />
+          <mxGeometry x="245" y="70" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-3" target="PKCxChARmm6Pcake6MCQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-3" value="&amp;nbsp;求解平面`(y-z)`上的二维薛定谔方程:&lt;div&gt;得到归一化的平面波函数`xi^(m)(y,z;x,t)`&lt;/div&gt;&lt;div&gt;和`m`次子带能量`E_(\s\u\b)^(m)(x,t)`&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=STSongti-SC-Regular;" vertex="1" parent="1">
-          <mxGeometry x="271.25" y="120" width="230" height="60" as="geometry" />
+          <mxGeometry x="285" y="130" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-5" target="PKCxChARmm6Pcake6MCQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-5" value="沿传输方向(`x`)求解一维瞬态薛定谔方程:&lt;div&gt;得到电子密度`n_(1D)^(m)(x,t)`&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=STSongti-SC-Regular;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273.13" y="200" width="223.75" height="60" as="geometry" />
+          <mxGeometry x="273.13" y="210" width="223.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-7" target="PKCxChARmm6Pcake6MCQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -35,53 +35,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-9" value="求解三维泊松方程:获得更新的势分布 `U_(\n\e\w) (x,y,z,t)`" style="whiteSpace=wrap;html=1;fontFamily=STSongti-SC-Regular;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="286.25" y="350" width="197.5" height="60" as="geometry" />
+          <mxGeometry x="286.25" y="350" width="197.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-11" target="PKCxChARmm6Pcake6MCQ-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PKCxChARmm6Pcake6MCQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-11" target="PKCxChARmm6Pcake6MCQ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-11" target="PKCxChARmm6Pcake6MCQ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="790" as="sourcePoint" />
             <mxPoint x="738.75" y="122.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="463" />
-              <mxPoint x="600" y="150" />
+              <mxPoint x="600" y="423" />
+              <mxPoint x="600" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-11" value="`max|U_(&quot;new&quot;)-U_(&quot;old&quot;)| &amp;lt; epsi?`" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="306.25" y="435" width="157.5" height="55" as="geometry" />
+          <mxGeometry x="318.13" y="412.5" width="133.75" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-13" target="PKCxChARmm6Pcake6MCQ-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-13" target="PKCxChARmm6Pcake6MCQ-1">
+        <mxCell id="PKCxChARmm6Pcake6MCQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-29" target="PKCxChARmm6Pcake6MCQ-17">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKCxChARmm6Pcake6MCQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKCxChARmm6Pcake6MCQ-29" target="PKCxChARmm6Pcake6MCQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="540" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="445" y="550" />
-              <mxPoint x="620" y="550" />
-              <mxPoint x="620" y="70" />
+              <mxPoint x="620" y="480" />
+              <mxPoint x="620" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-13" value="`t = t_(max)?`" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="390" y="490" width="30" height="20" as="geometry" />
+          <mxGeometry x="380" y="435" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-17" value="计算瞬态电流`I(t)`&lt;div&gt;和通道`Q(t)`中的总电荷&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=STSongti-SC-Regular;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="288.75" y="590" width="195" height="60" as="geometry" />
+          <mxGeometry x="287.5" y="520" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="30" height="20" as="geometry" />
+          <mxGeometry x="380" y="500" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-22" value="否，`U_(old)=U_(\n\e\w)`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;" vertex="1" parent="1">
-          <mxGeometry x="445" y="435" width="160" height="30" as="geometry" />
+          <mxGeometry x="450" y="395" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-23" value="否，`t=t+Delta t`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;" vertex="1" parent="1">
-          <mxGeometry x="470" y="520" width="110" height="30" as="geometry" />
+        <mxCell id="PKCxChARmm6Pcake6MCQ-23" value="否，`t=t+Delta t`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="475" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKCxChARmm6Pcake6MCQ-29" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;`t = t_(max)?`&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="460" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
