@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-07T02:35:42.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="TzZ3NGKbE5vXYDV5XH1w" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-07T02:37:48.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="YcpMbUwk6UlARniAPnsj" version="24.0.7" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1740" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="1" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="PKCxChARmm6Pcake6MCQ-13" value="`t = t_(max)?`" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKCxChARmm6Pcake6MCQ-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="PKCxChARmm6Pcake6MCQ-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=STSongti-SC-Regular;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PKCxChARmm6Pcake6MCQ-17" value="计算瞬态电流`I(t)`&lt;div&gt;和通道`Q(t)`中的总电荷&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=STSongti-SC-Regular;rounded=0;" vertex="1" parent="1">
